@@ -2,9 +2,11 @@
 Developed hybrid approach for image based virtual try-on by reconstructing 3D cloth model of the target cloth by matching silhouettes to body model, transferring the 3D cloth model to the estimated 3D target human model, generating target human skin parts and blend it to the rendered warped cloth along with human representations.
 
 
+![ed3c7757bda94ef69ecf0fe8f5b9e0fa](https://user-images.githubusercontent.com/68578215/199612732-2be33677-a573-4478-ac8d-28eb609a6f86.jpeg)
 
 
-
+## Poster
+ 
 <img width="770" alt="Screen Shot 2022-11-02 at 3 10 02 PM" src="https://user-images.githubusercontent.com/68578215/199612142-bcf120ee-d38e-437b-ab4d-5957e7bd17db.png">
 
 ## Project Background and Executive Summary
