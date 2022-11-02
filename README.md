@@ -12,6 +12,8 @@ Developed hybrid approach for image based virtual try-on by reconstructing 3D cl
 ## Project Background and Executive Summary
 The fashion industry is an industry where customers belonging to all regions do sales by visiting the stores across the world. For every occasion or celebration, shopping for new clothes from fashion stores is quite common across the globe. Many people while shopping had to use the trial rooms to finalize the selection. However, in recent years with the advent of online shopping, people are buying clothes online. Online shopping has increased even further because of the pandemic, where people were not able to visit the stores in person. With the increase in sales of e-commerce sites across the world, researchers started focusing more on virtual try-on rooms which would enhance the e-commerce and fashion industries. According to the business research, the market for virtual fitting rooms can grow from $3.50 billion in 2021 to $12.97 billion in 2028 at a CAGR of 20.6% over the period 2021-to 2018. According to the global market forecast in Fashion AI, the market size of AI is expected to grow from $228 million in 2019 to $1260 million in 2028 at a CAGR of 40.8% for 2021-2018 .
 
+**The code will be posted after the paper is published in IEEE**
+
 
 <img width="694" alt="Screen Shot 2022-11-02 at 3 16 42 PM" src="https://user-images.githubusercontent.com/68578215/199613087-dfa4c822-0447-4acf-897d-48479c21cebd.png">
 
