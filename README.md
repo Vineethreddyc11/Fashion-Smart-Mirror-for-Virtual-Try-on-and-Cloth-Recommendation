@@ -10,6 +10,13 @@ Developed hybrid approach for image based virtual try-on by reconstructing 3D cl
  
 <img width="770" alt="Screen Shot 2022-11-02 at 3 10 02 PM" src="https://user-images.githubusercontent.com/68578215/199612142-bcf120ee-d38e-437b-ab4d-5957e7bd17db.png">
 
+
+## Project Architecture
+
+<img width="723" alt="Screen Shot 2022-11-02 at 1 29 27 PM" src="https://user-images.githubusercontent.com/68578215/199596327-479f5808-2a87-4c16-a0b1-ddacf7756a3c.png">
+
+
+
 ## Project Background and Executive Summary
 The fashion industry is an industry where customers belonging to all regions do sales by visiting the stores across the world. For every occasion or celebration, shopping for new clothes from fashion stores is quite common across the globe. Many people while shopping had to use the trial rooms to finalize the selection. However, in recent years with the advent of online shopping, people are buying clothes online. Online shopping has increased even further because of the pandemic, where people were not able to visit the stores in person. With the increase in sales of e-commerce sites across the world, researchers started focusing more on virtual try-on rooms which would enhance the e-commerce and fashion industries. According to the business research, the market for virtual fitting rooms can grow from $3.50 billion in 2021 to $12.97 billion in 2028 at a CAGR of 20.6% over the period 2021-to 2018. According to the global market forecast in Fashion AI, the market size of AI is expected to grow from $228 million in 2019 to $1260 million in 2028 at a CAGR of 40.8% for 2021-2018 .
 
@@ -107,7 +114,8 @@ The main idea of our project is to integrate both the systems of virtual try-on 
 
 
 **Model Deformation:** Till now, 3D clothing models and 3D reconstructions for standard shaped and posed person. To achieve the output of the VTON system, we need to transfer the shape and pose coordination of the target user to the obtained 3D model. Instead of directly applying the pose and shape parameters to the 3D model, we use displacements of vertices as it gives us more natural results. Now as we have the deformed model, we need to attach the warped in-shop cloth image to this model. 
+
+## Model Architecture
 <img width="724" alt="Screen Shot 2022-11-02 at 1 29 05 PM" src="https://user-images.githubusercontent.com/68578215/199596337-17c32178-d202-4a3e-b9e0-86eb4a3d6579.png">
 
 
-<img width="723" alt="Screen Shot 2022-11-02 at 1 29 27 PM" src="https://user-images.githubusercontent.com/68578215/199596327-479f5808-2a87-4c16-a0b1-ddacf7756a3c.png">
