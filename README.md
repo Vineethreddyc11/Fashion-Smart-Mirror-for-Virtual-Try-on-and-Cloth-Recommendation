@@ -29,6 +29,11 @@ Another major part of our project is the Recommendation system. It is a system t
 
 The main idea of our project is to integrate both the systems of virtual try-on and Recommendations in combination with the smart mirror AR technology. We mainly focus on designing a seamless smart mirror-based Fashion AI, which helps the target user gain maximum shopping benefits. Our design is when the customer picks a product from the product catalog, we would recommend the customer with similar items which help the user have the best selection based on his preferences. Then after the selection of a particular item, we design the virtual try-on module which helps the user see how the selected product looks on him/her and have a good shopping experience by saving time and energy.
 
+## Data Preprocessing
+
+
+
+
 ## Model 
 **Segmentation Generation Network:** The Semantic Segmentation Network is used to generate the target human body model mask according to the target cloth shape. The segmentation generation network (SGN) takes the target user image as input and then generates the mask which is in the shape of the target cloth. This model is implemented using the GAN model where the generator is the U-Net model, and the discriminator is the Pix2PixHD. The separate mask generation for the target user as per the target in-shop image is implemented first time in the CloTH-VTON model when compared to other models like VITON, and CP-VTON  which are the different VTON models.
 
