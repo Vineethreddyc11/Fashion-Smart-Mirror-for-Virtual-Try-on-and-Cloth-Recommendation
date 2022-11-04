@@ -31,7 +31,57 @@ The main idea of our project is to integrate both the systems of virtual try-on 
 
 ## Data Preprocessing
 
+**Sample data before removing unnecessary data**
 
+<img width="926" alt="Screen Shot 2022-11-04 at 8 09 05 AM" src="https://user-images.githubusercontent.com/68578215/200009687-003f7f9b-1b0c-4b46-add2-325a8c8823ec.png">
+          
+
+**Samples data after removing unnecessary data**
+
+
+<img width="936" alt="Screen Shot 2022-11-04 at 8 09 35 AM" src="https://user-images.githubusercontent.com/68578215/200009684-2a8886c5-e350-4a66-912a-09111b0dbb65.png">
+
+**Sample Complete Images**
+
+
+<img width="961" alt="Screen Shot 2022-11-04 at 8 09 55 AM" src="https://user-images.githubusercontent.com/68578215/200009678-fa4a6506-05d3-4c3e-b69e-64998bc1adc9.png">
+
+**Samples images after cropping**
+
+<img width="940" alt="Screen Shot 2022-11-04 at 8 10 07 AM" src="https://user-images.githubusercontent.com/68578215/200009673-e0d81bb9-d7ec-4412-b057-8a606af07385.png">
+
+**Sample images after adding a white background**
+
+<img width="948" alt="Screen Shot 2022-11-04 at 8 10 13 AM" src="https://user-images.githubusercontent.com/68578215/200009668-02ba8e5c-85c8-4e9f-89eb-dc5fc0432555.png">
+
+**Samples of images after resizing**
+
+<img width="970" alt="Screen Shot 2022-11-04 at 8 10 24 AM" src="https://user-images.githubusercontent.com/68578215/200009665-5b4f78d4-7c3a-4e36-becb-c496ead442b6.png">
+
+**Sample images before checking the orientation**
+<img width="951" alt="Screen Shot 2022-11-04 at 8 10 34 AM" src="https://user-images.githubusercontent.com/68578215/200009663-1dbe0215-c450-493f-b049-32b8a0372de6.png">
+
+**Sample images after orientation**
+
+<img width="948" alt="Screen Shot 2022-11-04 at 8 10 41 AM" src="https://user-images.githubusercontent.com/68578215/200009660-22ab712d-6956-4e97-ac40-a26d11f350d6.png">
+
+**Sample images for the recommendation for male in the training dataset**
+
+
+<img width="959" alt="Screen Shot 2022-11-04 at 8 10 52 AM" src="https://user-images.githubusercontent.com/68578215/200009655-2e44e497-53e5-4237-8545-d50ed2ef5b78.png">
+
+**Sample images for a recommendation for female in the training dataset**
+
+<img width="968" alt="Screen Shot 2022-11-04 at 8 10 58 AM" src="https://user-images.githubusercontent.com/68578215/200009643-99b70838-ade8-4f9d-a00c-07f769cec685.png">
+
+**Sample images for virtual try-on for males in the training dataset**
+
+
+<img width="955" alt="Screen Shot 2022-11-04 at 8 11 32 AM" src="https://user-images.githubusercontent.com/68578215/200009637-3960620f-e722-45e7-8cb9-ad7c672af053.png">
+
+**Sample images for virtual try-on for females in the training dataset**
+
+<img width="957" alt="Screen Shot 2022-11-04 at 8 11 37 AM" src="https://user-images.githubusercontent.com/68578215/200009618-020df444-8ba2-4769-b009-ff6d5112b175.png">
 
 
 ## Model 
